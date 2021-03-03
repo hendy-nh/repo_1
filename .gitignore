@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Ignore Image, Music, and Videos
+*.jpeg
+*.jpg
+*.gif
+*.png
+
+
 # C extensions
 *.so
 
